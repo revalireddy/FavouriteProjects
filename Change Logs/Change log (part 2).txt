@@ -1,0 +1,43 @@
+                                                                 ************************************************
+                                                                              Change log - Part 2
+                                                                 ************************************************
+
+Feedback : Filter / search by product & price ranges / dates needs work but funcitonal. 
+---------------------------------------------------------------------------------------
+- Employees can now browse a list of products given by a farmer with filtering options thanks to a new feature that has been implemented. The product list can now be filtered by a certain   date range or product type by employees. By delivering personalized results, increasing productivity, and streamlining the process of finding pertinent product information, this feature   improves the user experience.
+
+
+
+Feedback : Farmers cant view products  without login / other farmers info. 
+--------------------------------------------------------------------------
+- Farmers can access the information of other farmers due to a security measure that requires them to check in before they can view products. Farmers authenticate themselves using   specific credentials, and the system enforces authorisation to limit access to only their own data. This approach gives farmers a customized experience while ensuring secure access and   confidentiality.
+
+
+
+Feedback : Git readme left blank
+--------------------------------
+- Readme Git has been removed to avoid empty readme's.
+
+
+
+Feedback : Too many files
+-------------------------
+- Files have been removes
+
+
+
+Feedback : No discussion on design patterns implemented.
+--------------------------------------------------------
+-MVC ,Model-View-Controller , divides an application into three interconnected parts.The Model, View, and Controller. The Controller controls the communication between the Model and View, whereas the Model represents the data and business logic, and the View is in charge of the user interface and presentation. This division of responsibilities encourages code organization, reusability, and maintainability, making it simpler to develop and modify applications.
+ 
+
+
+Feedback : No design extras - social media handles / newsletters / blogs / contact a agent. 
+--------------------------------------------------------------------------------------------
+- Social media handles for quick access to social media sites, newsletters for regular updates, and a blogging platform for publishing articles are all included in the program design. Through a contact form, users can ask a representative for help. These added design features give users a more complete experience within the application by enhancing user engagement, communication, and brand visibility.
+
+
+
+Feedback : Add docker
+---------------------
+With the help of Docker, an application and all of its dependencies was packaged into a container that is both portable and lightweight. This enhanced scalability, enabling uniform and repeatable deployments across many settings, and streamlines the development process. The MVC application used Docker to take advantage of containerization's isolation, flexibility, and simplicity of deployment and scaling.

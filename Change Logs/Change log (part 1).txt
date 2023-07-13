@@ -1,0 +1,12 @@
+                                                                      ****************************************
+                                                                                Change log - part 1
+                                                                      ****************************************
+
+Feedback : No expansion on SOLID priciples
+-------------------------------------------
+- SOLID principles have been addressed in greater depth.
+
+
+Feedback :  Conclusion is too short.
+------------------------------------
+- Conclusion has been lengthened to provide more details about the overall report.

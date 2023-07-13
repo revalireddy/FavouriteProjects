@@ -1,0 +1,33 @@
+Employee login creditials - (Consider Employee to be admin).We do not provide the functionality of creating admin from the register , to prevent just anyone from being admin.
+----------------------
+Email: employee@gmail.com
+Password: Employee!3
+
+Farmer 1 login creditials
+-------------------------
+Email: farmerone@gmail.com
+Password: Farmer01!
+
+Farmer 2 login creditials
+-------------------------
+Email: farmertwo@gmail.com
+Password: Farmer02!
+
+Farmer 3 login creditials
+-------------------------
+Email: farmerthree@gmail.com
+Password: Farmer03!
+
+
+server name
+-----------
+(localdb)\\mssqllocaldb
+
+database name
+-------------
+BrickMotarTwo
+
+Connection String
+-----------------
+"Server=(localdb)\\mssqllocaldb; Database=BrickMotarTwo; Trusted_Connection = True; MultipleActiveResultSets = true"
+
